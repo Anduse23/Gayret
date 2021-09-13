@@ -1,0 +1,27 @@
+/* 
+h1{
+    color: red;
+}
+
+p{
+    color: saddlebrown;
+} 
+*/
+.paragraph1{
+    border: 2px solid; color: seagreen;
+}
+#paragraph1{
+    padding: 10px;
+}
+p.paragraph3{
+    background-color: springgreen;
+    color:black;
+    padding: 10px;
+    text-align: justify;
+}
+.center{
+    text-align: center;
+}
+.color{
+    color: rgb(245, 12, 12);
+}
